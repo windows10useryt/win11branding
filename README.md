@@ -17,7 +17,7 @@ If you have improvements or additional materials to contribute, feel free to ope
 All branding assets in this repository are provided under the [MIT License](LICENSE).
 
 ## Contact
-For questions or assistance, reach out at [your-email@example.com].
+For questions or assistance, reach out at [windowsuser688@gmail.com].
 
 ---
 
